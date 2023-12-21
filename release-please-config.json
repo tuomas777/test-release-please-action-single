@@ -1,0 +1,10 @@
+{
+  "sequential-calls": true,
+  "packages": {
+    ".": {
+      "release-type": "node",
+      "package-name": "testi"
+    }
+  },
+  "plugins": ["sentence-case"]
+}
