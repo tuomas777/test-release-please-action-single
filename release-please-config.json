@@ -1,5 +1,6 @@
 {
   "sequential-calls": true,
+  "changelog-type": "github",
   "packages": {
     ".": {
       "release-type": "node",
