@@ -7,6 +7,7 @@
 
 * Update testi.txt ([62f04c1](https://github.com/terovirtanen/test-release-please-action-single/commit/62f04c171a791efb9470dd9bc9bcb496089ba792))
 * Update testi.txt ([c8fde8c](https://github.com/terovirtanen/test-release-please-action-single/commit/c8fde8cded0d24748a43f31ac7426a701ac5c772))
+* lisäys CHANGELOG.md tiedostoon
 
 ## [0.1.2](https://github.com/terovirtanen/test-release-please-action-single/compare/testi-v0.1.1...testi-v0.1.2) (2023-12-22)
 
