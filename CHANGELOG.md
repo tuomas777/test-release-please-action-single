@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.2](https://github.com/terovirtanen/test-release-please-action-single/compare/testi-v0.1.1...testi-v0.1.2) (2023-12-22)
+
+
+### Bug Fixes
+
+* Toinen muutos ([527348b](https://github.com/terovirtanen/test-release-please-action-single/commit/527348b16d8e6035cde8f8e4e0541fca1aa1eb0d))
+* Update testi.txt ([a4a783b](https://github.com/terovirtanen/test-release-please-action-single/commit/a4a783b22a9a6f1f29e750913777da15965a6101))
+
 ## 0.1.1 (2023-12-22)
 
 ## What's Changed
