@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.1 (2023-12-22)
+
+## What's Changed
+* fix: changelog type by @terovirtanen in https://github.com/terovirtanen/test-release-please-action-single/pull/6
+
+
+**Full Changelog**: https://github.com/terovirtanen/test-release-please-action-single/compare/testi-v0.1.0...testi-v0.1.1
+
 ## [0.1.0](https://github.com/terovirtanen/test-release-please-action-single/compare/testi-v0.0.2...testi-v0.1.0) (2023-12-22)
 
 
