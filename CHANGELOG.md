@@ -11,7 +11,6 @@
 ### Bug Fixes
 
 * Do not use github release notes ([b7bcac2](https://github.com/tuomas777/test-release-please-action-single/commit/b7bcac2d5f56f5c67925c17bb1b424535e594592))
-* Fix fix.txt ([3c09d17](https://github.com/tuomas777/test-release-please-action-single/commit/3c09d176b09cda3bdc878d2633a4917a18b812a9))
 * Fix the text file finally ([92948a3](https://github.com/tuomas777/test-release-please-action-single/commit/92948a39a55348741e3d39b62d40c05678737b09))
 
 ## 0.3.0 (2023-12-27)
