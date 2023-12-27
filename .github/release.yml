@@ -10,9 +10,11 @@ changelog:
         - breaking-change
     - title: Features 🎉
       labels:
+        - feature
         - enhancement
     - title: Bug fixes 🐛
       labels:
+        - fix
         - bug
     - title: Other Changes
       labels:
