@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.3.0 (2023-12-27)
+
+<!-- Release notes generated using configuration in .github/release.yml at master -->
+
+## What's Changed
+### Features 🎉
+* feat: add fancy new feature by @tuomas777 in https://github.com/tuomas777/test-release-please-action-single/pull/6
+### Bug fixes 🐛
+* Fixed t.txt by @tuomas777 in https://github.com/tuomas777/test-release-please-action-single/pull/4
+* Create fix.txt by @tuomas777 in https://github.com/tuomas777/test-release-please-action-single/pull/7
+
+
+**Full Changelog**: https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.2.0...testi-v0.3.0
+
 ## [0.2.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.1.3...testi-v0.2.0) (2023-12-27)
 
 
