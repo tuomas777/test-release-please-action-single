@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.4.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.3.0...testi-v0.4.0) (2023-12-27)
+
+
+### Features
+
+* Add more features ([522eca5](https://github.com/tuomas777/test-release-please-action-single/commit/522eca5aa3f9e19524942d1ca1a8a7e36c6f57a8))
+
+
+### Bug Fixes
+
+* Do not use github release notes ([b7bcac2](https://github.com/tuomas777/test-release-please-action-single/commit/b7bcac2d5f56f5c67925c17bb1b424535e594592))
+* Fix the text file finally ([92948a3](https://github.com/tuomas777/test-release-please-action-single/commit/92948a39a55348741e3d39b62d40c05678737b09))
+
 ## 0.3.0 (2023-12-27)
 
 <!-- Release notes generated using configuration in .github/release.yml at master -->
