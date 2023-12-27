@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.2.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.1.3...testi-v0.2.0) (2023-12-27)
+
+
+### Features
+
+* Create README.md ([002de2d](https://github.com/tuomas777/test-release-please-action-single/commit/002de2dfe0237c3b9d4bb014d84b38f973567e5a))
+* Toinen testi ([#4](https://github.com/tuomas777/test-release-please-action-single/issues/4)) ([11e8e2c](https://github.com/tuomas777/test-release-please-action-single/commit/11e8e2ca560b77bee99b999f8ac9035b7bc7ba0a))
+
+
+### Bug Fixes
+
+* Chagnelog type ([30fa4d3](https://github.com/tuomas777/test-release-please-action-single/commit/30fa4d3943f097045a4a368d3252dcbe08372d54))
+* Testi ([5bbde1a](https://github.com/tuomas777/test-release-please-action-single/commit/5bbde1a3ae18ec7424eb74bec18f0073ff1bab12))
+* Toinen muutos ([527348b](https://github.com/tuomas777/test-release-please-action-single/commit/527348b16d8e6035cde8f8e4e0541fca1aa1eb0d))
+* Update testi.txt ([62f04c1](https://github.com/tuomas777/test-release-please-action-single/commit/62f04c171a791efb9470dd9bc9bcb496089ba792))
+* Update testi.txt ([c8fde8c](https://github.com/tuomas777/test-release-please-action-single/commit/c8fde8cded0d24748a43f31ac7426a701ac5c772))
+* Update testi.txt ([a4a783b](https://github.com/tuomas777/test-release-please-action-single/commit/a4a783b22a9a6f1f29e750913777da15965a6101))
+
 ## [0.1.3](https://github.com/terovirtanen/test-release-please-action-single/compare/testi-v0.1.2...testi-v0.1.3) (2023-12-22)
 
 
