@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.6.0...testi-v0.7.0) (2024-03-18)
+
+
+### Features
+
+* Add commitlint ([6c252ba](https://github.com/tuomas777/test-release-please-action-single/commit/6c252bac89ead1e02e3a3bee075b6944606d4683))
+
 ## [0.6.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.5.0...testi-v0.6.0) (2024-03-18)
 
 
