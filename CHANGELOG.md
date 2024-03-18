@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.6.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.5.0...testi-v0.6.0) (2024-03-18)
+
+
+### Features
+
+* Change release-type to node ([e3b479f](https://github.com/tuomas777/test-release-please-action-single/commit/e3b479f6d2dea4a866fbbba5033604109809bd1b))
+
+
+### Bug Fixes
+
+* Test-text ([0e3e697](https://github.com/tuomas777/test-release-please-action-single/commit/0e3e69700757b44db1ed492a6b724f8c9543dfdc))
+
+
+### Performance Improvements
+
+* Embetter performance ([62204ef](https://github.com/tuomas777/test-release-please-action-single/commit/62204ef1580f336b7e63c460d32d9ab6dd4ca1c3))
+
 ## [0.5.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.4.1...testi-v0.5.0) (2024-03-18)
 
 
