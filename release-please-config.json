@@ -2,7 +2,7 @@
   "sequential-calls": true,
   "packages": {
     ".": {
-      "release-type": "python",
+      "release-type": "node",
       "package-name": "testi"
     }
   },
