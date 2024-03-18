@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.5.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.4.1...testi-v0.5.0) (2024-03-18)
+
+
+### Features
+
+* Add new fancy feature ([8b72945](https://github.com/tuomas777/test-release-please-action-single/commit/8b729457f0338a36caa3231248aa51427d4e379e))
+
+
+### Bug Fixes
+
+* Add missing kolmas rivi ([465471a](https://github.com/tuomas777/test-release-please-action-single/commit/465471a236228317621671de6d8ab97e1c860c00))
+
+
+### Performance Improvements
+
+* Make it faster ([6c6f51f](https://github.com/tuomas777/test-release-please-action-single/commit/6c6f51f70f1e763bef3b83e722b476460bb469db))
+
 ## [0.4.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.4.0...testi-v0.4.1) (2024-03-18)
 
 
