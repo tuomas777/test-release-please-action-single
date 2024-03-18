@@ -10,7 +10,7 @@
 
 ### Bug Fixes
 
-* Add missing kolmas rivi ([465471a](https://github.com/tuomas777/test-release-please-action-single/commit/465471a236228317621671de6d8ab97e1c860c00))
+* Add missing third row ([465471a](https://github.com/tuomas777/test-release-please-action-single/commit/465471a236228317621671de6d8ab97e1c860c00))
 
 
 ### Performance Improvements
