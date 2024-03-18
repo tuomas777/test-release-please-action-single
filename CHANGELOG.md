@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.7.0...testi-v0.7.1) (2024-03-18)
+
+
+### Bug Fixes
+
+* Allow forcing generic updater for extra-files ([b6c289b](https://github.com/tuomas777/test-release-please-action-single/commit/b6c289be4d8b0d651f0dfbc3b17d91dcd8f29ec5))
+
 ## [0.7.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.6.0...testi-v0.7.0) (2024-03-18)
 
 
