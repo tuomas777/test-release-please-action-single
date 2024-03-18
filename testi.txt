@@ -7,3 +7,4 @@ tää on chore
 tää on refactor
 tää on perf
 mutta tämäpä onkin ominaisuus
+tämä docs
