@@ -12,3 +12,4 @@ lisää ominaisuuksia
 choreee
 perfiii
 fixi
+deps
