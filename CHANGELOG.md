@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.4.0...testi-v0.4.1) (2024-03-18)
+
+
+### Bug Fixes
+
+* Update testi.txt ([bd165ae](https://github.com/tuomas777/test-release-please-action-single/commit/bd165ae8863cb3de90136492854b587dd3c5f148))
+
 ## [0.4.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.3.0...testi-v0.4.0) (2023-12-27)
 
 
