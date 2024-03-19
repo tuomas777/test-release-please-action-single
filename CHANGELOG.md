@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.8.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.7.1...testi-v0.8.0) (2024-03-19)
+
+
+### Features
+
+* Uusi feature ([1c7c32d](https://github.com/tuomas777/test-release-please-action-single/commit/1c7c32d33c9c6602e33e070f1e6e371dcbcb0cd8))
+
+
+### Bug Fixes
+
+* Fix foo ([a8e7e1f](https://github.com/tuomas777/test-release-please-action-single/commit/a8e7e1fbc6a63fa640a38589c558cfeebae7a373))
+* Tuomo ([3a83ab1](https://github.com/tuomas777/test-release-please-action-single/commit/3a83ab1bdd56cd035f79ee951305f6b4d1b342f4))
+
 ## [0.7.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.7.0...testi-v0.7.1) (2024-03-18)
 
 
