@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.2.2](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.2.1...testi-v8.2.2) (2024-03-27)
+
+
+### Bug Fixes
+
+* Fix ([26c5c22](https://github.com/tuomas777/test-release-please-action-single/commit/26c5c22af3a967e3eaf7da4622662932f7c5cf33))
+* README again ([32272a9](https://github.com/tuomas777/test-release-please-action-single/commit/32272a989638ae8dfb32508e656f9e56ba2860aa))
+
 ## [8.2.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.2.0...testi-v8.2.1) (2024-03-27)
 
 
