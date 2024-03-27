@@ -1,5 +1,23 @@
 # Changelog
 
+## [8.2.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.8.0...testi-v8.2.0) (2024-03-27)
+
+
+### Features
+
+* New branch test ([248c775](https://github.com/tuomas777/test-release-please-action-single/commit/248c775af78596e6aa20a2a929b0fb5338559f8e))
+
+
+### Bug Fixes
+
+* Rebase readme fixi ([4e64ebd](https://github.com/tuomas777/test-release-please-action-single/commit/4e64ebdfcbb3453d65844a68ae81a0678856f5a3))
+
+
+### Dependencies
+
+* Upgrade xyz ([af2c53f](https://github.com/tuomas777/test-release-please-action-single/commit/af2c53f0903ebaebe91b3e73e0091d92a6f476de))
+* Upgrade zyx ([bfbc1fe](https://github.com/tuomas777/test-release-please-action-single/commit/bfbc1fe1200aead00a2a10119dcb83df6061b8d3))
+
 ## [0.8.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v0.7.1...testi-v0.8.0) (2024-03-19)
 
 

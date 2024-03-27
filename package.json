@@ -1,6 +1,6 @@
 {
   "name": "testi",
-  "version": "0.8.0",
+  "version": "8.2.0",
   "private": true,
   "scripts": {
     "prepare": "husky"
