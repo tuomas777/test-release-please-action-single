@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.3.1](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.3.0...testi-v8.3.1) (2024-03-27)
+
+
+### Bug Fixes
+
+* Fox ([87b0298](https://github.com/tuomas777/test-release-please-action-single/commit/87b02986a0a6a06f1905129d41c45c6654c866f5))
+
 ## [8.3.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.2.3...testi-v8.3.0) (2024-03-27)
 
 
