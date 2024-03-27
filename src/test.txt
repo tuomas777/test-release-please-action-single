@@ -7,3 +7,4 @@ dependenssit päivitetty
 ja taas
 uutta branchia testaillaan
 uus featsu
+uus veatsu2
