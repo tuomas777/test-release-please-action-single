@@ -6,3 +6,4 @@ uusi feature
 dependenssit päivitetty
 ja taas
 uutta branchia testaillaan
+uus featsu
