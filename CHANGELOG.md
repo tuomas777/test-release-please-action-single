@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.3.0](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.2.3...testi-v8.3.0) (2024-03-27)
+
+
+### Features
+
+* Uus veatsu2 ([0b76d56](https://github.com/tuomas777/test-release-please-action-single/commit/0b76d56312fee96f1039c3b45a6640f123ba597c))
+
+
+### Bug Fixes
+
+* README 4 ([fc48eef](https://github.com/tuomas777/test-release-please-action-single/commit/fc48eefe17b56670fa9245473b61029c27507b13))
+* Readme4 ([7e9d498](https://github.com/tuomas777/test-release-please-action-single/commit/7e9d498d91fb5972835b6ebdf061191e01f7c0bd))
+
 ## [8.2.3](https://github.com/tuomas777/test-release-please-action-single/compare/testi-v8.2.2...testi-v8.2.3) (2024-03-27)
 
 
